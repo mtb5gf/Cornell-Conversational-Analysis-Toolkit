@@ -8,11 +8,11 @@
 While these projects focus largely on determining characteristics generated in utterances, this adaptation into Convokit is largely focused on how User-Level patterns of utterance affect a narrative's ability to delineate major and minor characters.  
 
 **B1.) User-Level**
-*_character_name_: Contains the full name of the character/user 
-*_total_utterances_: Contains the number of utterances made by the character/user during the entirety of _Friends_
-*_utterances_per_season_: Contains the number of utterances each character/user makes during a season of _Friends_
-*_total_references_: Contains the number of references made to the character/user during the first four seasons of _Friends_
-*_references_per_season_: Contains the number of references each character/user makes during the first four seasons of *_Friends_
+*_character_name_: Contains the full name of the character/user\ 
+*_total_utterances_: Contains the number of utterances made by the character/user during the entirety of _Friends_\
+*_utterances_per_season_: Contains the number of utterances each character/user makes during a season of _Friends_\
+*_total_references_: Contains the number of references made to the character/user during the first four seasons of _Friends_\
+*_references_per_season_: Contains the number of references each character/user makes during the first four seasons of _Friends_\
 
 **B2.) Utterance_Level**
 *_id_: Contains information about the season, episode, and scene the utterance occurs
