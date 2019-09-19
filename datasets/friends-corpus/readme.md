@@ -1,10 +1,10 @@
 **A.)** This dataset is taken from the Emory Character Mining Dataset. It contains annotated scripts of all ten seasons of the popular 1990s sitcom _Friends_. The Emory NLP Group has published several papers in recent years:
 
-* [Character Identification](../../../character-identification) (since May 2016).
-* [Emotion Detection](../../../emotion-detection) (since May 2017).
-* [Reading Comprehension](../../../reading-comprehension) (since May 2018).
-* [Questiong Answering](../../../question-answering) (since May 2019).
-
+* [Character Identification](https://github.com/emorynlp/character-identification) (since May 2016).
+* [Emotion Detection](https://github.com/emorynlp/emotion-detection) (since May 2017).
+* [Reading Comprehension](https://github.com/emorynlp/reading-comprehension) (since May 2018).
+* [Questiong Answering](https://github.com/emorynlp/reading-comprehension) (since May 2019).
+\
 While these projects focus largely on determining characteristics generated in utterances, this adaptation into Convokit is largely focused on how User-Level patterns of utterance affect a narrative's ability to delineate major and minor characters.  
 \
 **B1.) User-Level**\
